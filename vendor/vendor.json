@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hBHI8hVbOi3Iq9TfLDxKe7iWoxM=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "4563b0ba73e4db6c6423b60a26f3cadd2e9a1ec9",
+			"revisionTime": "2016-10-23T14:40:33Z"
+		},
+		{
+			"checksumSHA1": "rKV8YLkXpeNG1Oix8hlYqVsEFb4=",
+			"path": "github.com/streadway/amqp",
+			"revision": "2e25825abdbd7752ff08b270d313b93519a0a232",
+			"revisionTime": "2016-03-11T21:55:03Z"
+		},
+		{
+			"checksumSHA1": "hiOUviIMDKo7y918uBiEhfJyOkk=",
+			"path": "gopkg.in/tylerb/graceful.v1",
+			"revision": "50a48b6e73fcc75b45e22c05b79629a67c79e938",
+			"revisionTime": "2016-08-29T01:00:30Z"
+		},
+		{
+			"checksumSHA1": "/1TzqyoYSSdEkFrZG20XoNGwD8o=",
+			"path": "gopkg.in/urfave/cli.v1",
+			"revision": "a14d7d367bc02b1f57d88de97926727f2d936387",
+			"revisionTime": "2016-08-29T00:43:50Z"
+		}
+	],
+	"rootPath": "bitbucket.org/colincarter/openstack-rabbitmq-http"
+}
